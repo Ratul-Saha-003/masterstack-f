@@ -97,7 +97,7 @@ const Profile = () => {
       <div class="sidenav">
         <div class="profile">
           <div class="name">MasterStack</div>
-          <div class="job">Concetto 23'</div>
+          <div class="job">Concetto '24</div>
         </div>
 
         <div class="sidenav-url">

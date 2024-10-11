@@ -58,7 +58,7 @@ export const Header = (props) => {
         <div className="flex justify-center">
           <div className="max-w-2xl">
             <Link to="/divisionSelect">
-              <button className="bg-green-500 hover:bg-blue-700 text-white text-lg md:text-xl xl:text-2xl tracking-wide uppercase font-bold py-2 px-4 rounded disabled:opacity-70 disabled:hover:bg-green-500"  onClick={handleStartClick} disabled={true}>
+              <button className="bg-green-500 hover:bg-blue-700 text-white text-lg md:text-xl xl:text-2xl tracking-wide uppercase font-bold py-2 px-4 rounded disabled:opacity-70 disabled:hover:bg-green-500"  onClick={handleStartClick} disabled={user.selected}>
                 Start
               </button>
             </Link>

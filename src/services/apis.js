@@ -1,5 +1,6 @@
 import axios from 'axios'
 const db_url = 'https://masterstack-b.onrender.com'
+// const db_url = 'http://localhost:3000'
 
 export const login = (data)=>{
     return axios.post(`${db_url}/login`, data)
