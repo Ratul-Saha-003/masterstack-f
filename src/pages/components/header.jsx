@@ -45,10 +45,10 @@ export const Header = (props) => {
               Innovate, Collaborate, Create.
             </h2>
             <p className="mt-6 text-lg leading-8 text-gray-300 text-center">
-              Introducing Masterstack 2.0: An epic hackathon by Concetto,
+              Introducing Masterstack 3.0: An epic hackathon by Concetto,
               pushing tech boundaries and fostering creativity. Join global
               innovators to tackle pressing challenges and turn ideas into
-              reality. Let's revolutionize together! 🚀🌐 #Masterstack2.0
+              reality. Let's revolutionize together! 🚀🌐 #Masterstack3.0
               #InnovationUnleashed
             </p>
           </div>
