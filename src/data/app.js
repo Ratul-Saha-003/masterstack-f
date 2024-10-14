@@ -14,19 +14,19 @@ import NodejsLogo from '../assets/nodejs.png'
 export const app = [
     {
         name:"Flutter",
-        points:"20",
-        price:"15000",
+        points:"30",
+        price:"20000",
         icon:FlutterLogo
     },
     {
         name:"React Native",
-        points:"15",
-        price:"15000",
+        points:"20",
+        price:"20000",
         icon:ReactiveNativeLogo
     },
     {
         name:"Kotlin",
-        points:"15",
+        points:"20",
         price:"15000",
         icon:KotlinLogo
     },
@@ -44,8 +44,8 @@ export const app = [
     },
     {
         name:"XML",
-        points:"200",
-        price:"1000",
+        points:"15",
+        price:"5000",
         icon:XMLLogo
     },
     {

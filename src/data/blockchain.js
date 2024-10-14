@@ -2,15 +2,18 @@ import TruffleLogo from '../assets/truffle.png'
 import HardhatLogo from '../assets/Hardhat.png'
 import SolidityLogo from '../assets/solidity .png'
 import RustLogo from '../assets/rust.png'
-import GoLangLogo from '../assets/golang.png'
-import MotokoLogo from '../assets/motoko.png'
-import WebLogo from '../assets/web.png'
+import FoundryLogo from "../assets/foundry.png"
+import IPFSLogo from '../assets/ipfs.png'
+import ViemLogo from "../assets/viem.png"
+import WagmiLogo from "../assets/wagmi.png"
+import WalletConnectLogo from "../assets/walletconnect.png"
+import OppenzeppelinLogo from "../assets/openzeppelin.png"
+import ChainlinkLogo from "../assets/chainlink.png"
+import UniswapLogo from "../assets/uniswap.png"
+import BiconomyLogo from "../assets/biconomy.png"
 import EthersLogo from '../assets/ethers.png'
-import MetamaskLogo from '../assets/metamask.png'
-import ContractWalletLogo from '../assets/wallet-money.png'
-import EthereumLogo from '../assets/ethereum.png'
-import PolygonLogo from '../assets/polygon-token .png'
-import OptimismLogo from '../assets/optimism.png'
+import SuperChainLogo from "../assets/superchain.jpg"
+
 
 export const blockchain = [
     {
@@ -21,74 +24,87 @@ export const blockchain = [
     },
     {
         name:"Hardhat",
-        points:"30",
-        price:"7500",
+        points:"10",
+        price:"10000",
         icon:HardhatLogo
     },
     {
-        name:"Solidity",
-        points:"30",
+        name:"Foundry",
+        points:"10",
+        price:"10000",
+        icon:FoundryLogo
+    },
+    {
+        name:"IPFS",
+        points:"10",
+        price:"5000",
+        icon:IPFSLogo
+    },
+    {
+        name:"Viem",
+        points:"10",
+        price:"10000",
+        icon:ViemLogo
+    },
+    {
+        name:"Wagmi",
+        points:"15",
+        price:"12500",
+        icon: WagmiLogo
+    },
+    {
+        name:"Wallet Connect",
+        points:"5",
+        price:"5000",
+        icon:WalletConnectLogo
+    },
+    {
+        name:"Openzeppelin Contracts",
+        points:"5",
+        price:"5000",
+        icon: OppenzeppelinLogo
+    },
+    {
+        name:"Chainlink",
+        points:"10",
+        price:"5000",
+        icon: ChainlinkLogo
+    },
+    {
+        name:"Uniswap/Aave",
+        points:"20",
+        price:"10000",
+        icon: UniswapLogo
+    },
+    {
+        name:"Biconomy",
+        points:"20",
         price:"15000",
+        icon: BiconomyLogo
+    },
+    {
+        name:"Solidity",
+        points:"10",
+        price:"10000",
         icon:SolidityLogo
     },
     {
         name:"Rust",
         points:"20",
-        price:"10000",
+        price:"15000",
         icon:RustLogo
     },
     {
-        name:"GoLang",
-        points:"25",
-        price:"7500",
-        icon:GoLangLogo
-    },
-    {
-        name:"Motoko",
-        points:"30",
-        price:"5000",
-        icon:MotokoLogo
-    },
-    {
-        name:"Web3.js",
-        points:"25",
+        name:"SuperChain",
+        points:"20",
         price:"15000",
-        icon:WebLogo
+        icon:SuperChainLogo
     },
     {
         name:"Ethers.js",
-        points:"25",
+        points:"10",
         price:"10000",
         icon:EthersLogo
-    },
-    {
-        name:"Metamask",
-        points:"25",
-        price:"15000",
-        icon:MetamaskLogo
-    },
-    {
-        name:"Contract Wallet(ERC 4337)",
-        points:"30",
-        price:"5000",
-        icon:ContractWalletLogo
-    },
-    {
-        name:"Ethereum",
-        points:"30",
-        price:"15000",
-        icon:EthereumLogo
-    },
-    {
-        name:"Polygon",
-        points:"30",
-        price:"10000",
-        icon:PolygonLogo
-    },{
-        name:"Optimism",
-        points:"35",
-        price:"5000",
-        icon:OptimismLogo
     },
     
 ]

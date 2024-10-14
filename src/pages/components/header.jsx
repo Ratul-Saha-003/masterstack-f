@@ -68,7 +68,7 @@ export const Header = (props) => {
         <div className="flex justify-center items-center mt-5 md:mt-14">
           <button
             className="bg-indigo-700 hover:bg-blue-800 flex flex-row-reverse items-center gap-4 text-white font-bold text-lg xl:text-3xl py-3 px-5 rounded-md"
-            onClick={() => (window.location.href = "https://t.me/+c5e4H7IOJKwwNTVl")}
+            onClick={() => (window.location.href = "https://t.me/+lkEAZ8De2AFkMDY1")}
           >
             Join Telegram Group
             <img
