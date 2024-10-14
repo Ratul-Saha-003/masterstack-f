@@ -3,7 +3,7 @@ import HardhatLogo from '../assets/Hardhat.png'
 import SolidityLogo from '../assets/solidity .png'
 import RustLogo from '../assets/rust.png'
 import FoundryLogo from "../assets/foundry.png"
-import IPFSLogo from '../assets/ipfs.png'
+import IPFSLogo from '../assets/Ipfs.png'
 import ViemLogo from "../assets/viem.png"
 import WagmiLogo from "../assets/wagmi.png"
 import WalletConnectLogo from "../assets/walletconnect.png"
