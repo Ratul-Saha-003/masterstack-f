@@ -39,7 +39,7 @@ const Navbar = () => {
                 <a href="/" className="block py-3">
                   <h1 className="text-[22px] md:text-xl font-bold uppercase flex items-center mr-6 mt-2">
                     MasterStack{" "}
-                    <span className="text-base text-[22px] ml-1">2.0</span>
+                    <span className="text-base text-[22px] ml-1">3.0</span>
                   </h1>
                 </a>
                 <span className="block w-full py-3">
